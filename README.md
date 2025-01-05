@@ -19,8 +19,15 @@ In the initial data preparation phase, I performed the following tasks:
 - Handling missing values.
 - Data cleaning and formatting.
 
+### Dashboard
+**SUMMARY**
+![image](https://github.com/user-attachments/assets/7aab2552-776b-4adb-8994-6012ac4d061d)
 
+**OVERVIEW**
+![image](https://github.com/user-attachments/assets/3f8e579f-6806-4fd7-ad8e-5148b05e2c1e)
 
+**DETAILS**
+![image](https://github.com/user-attachments/assets/ea889520-1700-41dd-8481-ac64b268e108)
 
 
 
