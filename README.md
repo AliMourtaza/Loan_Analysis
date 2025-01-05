@@ -3,7 +3,7 @@ To monitor our bank's lending performance, we need a comprehensive Bank Loan Rep
 
 ### Data Sources
 
-Data: The primary dataset used for this analysis is the "financial_loan.csv" file, which contains detailed loan information.
+Data: The primary dataset used for this analysis is the "financial_loan.csv" file containing detailed loan information.
 
 ### Tools
 
@@ -27,7 +27,8 @@ In the initial data preparation phase, I performed the following tasks:
 ![image](https://github.com/user-attachments/assets/3f8e579f-6806-4fd7-ad8e-5148b05e2c1e)
 
 **DETAILS**
-![image](https://github.com/user-attachments/assets/ea889520-1700-41dd-8481-ac64b268e108)
+![image](https://github.com/user-attachments/assets/5d4495ea-94c7-421b-bcb6-ef0805c7a1a6)
+
 
 
 
